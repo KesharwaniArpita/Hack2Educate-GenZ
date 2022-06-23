@@ -1,0 +1,81 @@
+,Title,Published_date,Views,Likes,Favorite,Comments,Month
+0,Perform multidimensional analysis for free | Intro to atoti,2022-06-03,2779,125,0,18,Jun
+1,How to Create a Wordpress Website?,2022-05-09,7192,323,0,53,May
+2,HTML Tutorial For Beginners (With Notes) 🔥,2021-10-21,58871,2904,0,305,Oct
+3,C Language Tutorial for Beginners (With Notes) 🔥,2021-09-03,493739,15510,0,1325,Sep
+4,Python Tutorial For Beginners (With Notes) 🔥,2021-07-26,569064,19986,0,1389,Jul
+5,Deploying our Django Blog in Ubuntu 18.04 VPS | Django Tutorial #34,2020-07-09,39516,1078,0,120,Jul
+6,Adding Virtual Environment to our Django Blog | Django Tutorial #33,2020-07-09,19495,537,0,35,Jul
+7,Creating Contact Model + UI for our Django Blog | Django Tutorial #32,2020-06-27,8542,252,0,39,Jun
+8,Designing The Pagination Logic For Our Django Blog | Django Tutorial #31,2020-06-26,6095,192,0,28,Jun
+9,Making Design Improvements in Our Django Blog | Django Tutorial #30,2020-06-25,5891,195,0,20,Jun
+10,Customizing Tiny MCE For Better Editing Experience | Django Tutorial #29,2020-06-25,3402,140,0,31,Jun
+11,Finishing up Tiny MCE Rich Text Editor | Django Tutorial #28,2020-06-25,4014,136,0,22,Jun
+12,Adding Rich Text Editor to the Django Admin | Django Tutorial #27,2020-06-24,7502,183,0,32,Jun
+13,Django Blog: Designing The HomePage | Django Tutorial #26,2020-06-19,9940,260,0,33,Jun
+14,Django Blog: Rendering the Blog on Blog Page | Django Tutorial #25,2020-06-19,3805,151,0,23,Jun
+15,Django Blog: Designing the Blog Home Page | Django Tutorial #24,2020-06-18,4474,144,0,19,Jun
+16,Django Blog: Creating Blog Model For our Mountain Coders Blog | Django Tutorial #23,2020-06-17,4247,164,0,26,Jun
+17,Django CMS: Adding Bootstrap to our Django Blog | Django Tutorial #22,2020-06-16,5160,139,0,29,Jun
+18,Django CMS: Creating a Django Blog | Django Tutorial #21,2020-06-08,12604,256,0,42,Jun
+19,Django Authentication and Authorization Tutorial | Django Tutorial #20,2020-06-02,6989,215,0,44,Jun
+20,Project 2: Finishing Up ToDos List Django App | Django Tutorial #19,2020-05-31,3875,168,0,21,May
+21,Project 2: Fetching Data from our Models for ToDos List Django App | Django Tutorial #18,2020-05-30,7705,248,0,34,May
+22,Project 2: Using Django Template Language in our ToDos List Django App | Django Tutorial #17,2020-05-29,3911,202,0,30,May
+23,Project 2: Creating Models & Superuser for Our ToDos List Django App | Django Tutorial #16,2020-05-28,5935,242,0,25,May
+24,Project 2: ToDos List App in Django | Django Tutorial #15,2020-05-27,11174,288,0,28,May
+25,Template Inheritance in Django | Django Tutorial #14,2020-05-26,7495,255,0,29,May
+26,Using Static Files & StaticFiles Dirs in Django | Django Tutorial #13,2020-05-26,19380,414,0,47,May
+27,Customizing the Django Admin Interface | Django Tutorial #12,2020-05-25,27954,595,0,49,May
+28,Understanding the Django Admin Interface | Django Tutorial #11,2020-05-25,9520,331,0,36,May
+29,Models in Django: Saving Form Data To The Database | Django Tutorial #10,2020-05-24,34798,716,0,96,May
+30,Adding Further Design to our Developer Portfolio Website | Django Tutorial #9,2020-05-23,10440,308,0,28,May
+31,Portfolio Website: Integrating Bootstrap with Django | Django Tutorial #8,2020-05-23,13399,388,0,52,May
+32,Using Templates & Django Template Engine in Django | Django Tutorial #7,2020-05-23,14481,618,0,75,May
+33,Creating a Developer Portfolio Website Using Django | Django Tutorial #6,2020-05-23,28461,702,0,33,May
+34,MVT Pattern in Django | Django Tutorial #5,2020-05-22,14017,615,0,63,May
+35,"Apps, Projects and UrlPatterns in Django | Django Tutorial #4",2020-05-21,14729,583,0,65,May
+36,Folder Structure of a Django Application | Django Tutorial #3,2020-05-21,19145,621,0,40,May
+37,"How Django Works with HTML, CSS & JavaScript | Django Tutorial #2",2020-05-21,29743,799,0,60,May
+38,"Installing VS Code, Django & More | Django Tutorial #1",2020-05-20,94727,3083,0,255,May
+39,Object Oriented Programming - Classes & Objects in Python | Python Tutorial #34,2020-02-28,6391,208,0,36,Feb
+40,HTML for Web Development Tutorial for Beginners (2020 Updated Course),2019-12-04,41173,1024,0,111,Dec
+41,Project 1: Jarvis - Python AI Virtual Desktop Assistant | Python Tutorial #33,2019-10-19,202896,5485,0,1357,Oct
+42,Lambda Functions In Python | Python Tutorial #32,2019-09-30,3052,98,0,8,Sep
+43,"Iterators, Iterables & Generators In Python | Python Tutorial #31",2019-09-29,5606,163,0,15,Sep
+44,List Comprehensions In Python | Python Tutorial #30,2019-09-28,2526,97,0,14,Sep
+45,Number Guessing Game: Python Exercise 3 Solution | Python Tutorial #29,2019-09-16,17354,327,0,22,Sep
+46,Guess the number: Python Exercise 3 | Python Tutorial #28,2019-09-09,2200,64,0,31,Sep
+47,"f.read(), f.readline() & f.readlines() in Python | Python Tutorial #27",2019-09-08,15961,292,0,17,Sep
+48,File Handling in Python | Python Tutorial #26,2019-08-31,11195,294,0,18,Aug
+49,Escape sequence characters in Python | Python Tutorial #25,2019-08-30,15732,411,0,19,Aug
+50,Short Hand If - Else Notation in Python | Python Tutorial #24,2019-08-29,2833,82,0,5,Aug
+51,Exercise 2: Solution + Shoutouts | Python Tutorial #23,2019-08-28,12589,100,0,7,Aug
+52,Try except and Error handling in Python | Python Tutorial #22,2019-08-27,2661,96,0,8,Aug
+53,For else in Python | Python Tutorial #21,2019-08-26,3068,133,0,12,Aug
+54,Modules & pip in Python | Python Tutorial #20,2019-08-25,6262,173,0,19,Aug
+55,Recursions in Python | Python Tutorial #19,2019-08-25,2885,119,0,18,Aug
+56,Exercise 2: Twinkle Twinkle Little Star | Python Tutorial #18,2019-08-24,4796,107,0,31,Aug
+57,Functions in Python | Python Tutorial #17,2019-08-24,3944,118,0,24,Aug
+58,Exercise 1: Solution + Shoutouts | Python Tutorial #16,2019-08-24,18207,150,0,18,Aug
+59,While Loops in python | Python Tutorial #15,2019-08-20,3943,143,0,17,Aug
+60,For Loops in python | Python Tutorial #14,2019-08-20,3602,151,0,27,Aug
+61,If else conditionals in Python | Python Tutorial #13,2019-08-20,3587,115,0,31,Aug
+62,Sets in Python | Python Tutorial #12,2019-08-18,3336,124,0,26,Aug
+63,Dictionary and related methods in Python | Python Tutorial #11,2019-08-18,4106,159,0,23,Aug
+64,Tuple in Python | Python Tutorial #10,2019-08-18,19471,608,0,33,Aug
+65,Lists in Python | Python Tutorial #9,2019-08-18,4676,151,0,15,Aug
+66,Taking user input in Python  | Python Tutorial #8,2019-08-18,21824,454,0,33,Aug
+67,F-strings in Python | Python Tutorial #7,2019-08-18,8848,286,0,45,Aug
+68,Exercise 1: Capitalize my name & String concatenation | Python Tutorial #6,2019-08-18,6411,176,0,88,Aug
+69,Python strings and built in string methods | Python Tutorial #5,2019-08-17,11221,414,0,27,Aug
+70,Operators in Python | Python Tutorial #4,2019-08-17,7708,311,0,19,Aug
+71,Numbers & Typecasting in python | Python Tutorial #3,2019-08-17,14692,460,0,30,Aug
+72,Variables & Comments in Python | Python Tutorial #2,2019-08-17,20240,704,0,66,Aug
+73,"Installing VS Code, Python & writing hello world Python code | Python Tutorial #1",2019-08-16,314622,8061,0,714,Aug
+74,Django queryset tutorial: Making Queries in Django,2019-08-15,48155,463,0,44,Aug
+75,Django 2.2 Tutorial For Beginners,2019-06-15,53862,1011,0,92,Jun
+76,[Solved] No python interpreter configured for the project pycharm,2019-06-15,361996,6744,0,683,Jun
+77,[Solved] Invalid python interpreter selected for the project pycharm,2019-06-14,38085,1008,0,109,Jun
+78,"[SOLVED] pip is not recognized as an internal or external command, operable program or batch file",2019-06-13,195429,3744,0,465,Jun
+79,Python Tutorial For Beginners (Complete Course),2019-06-12,346390,10053,0,1646,Jun
