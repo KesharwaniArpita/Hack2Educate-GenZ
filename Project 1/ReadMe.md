@@ -11,3 +11,17 @@ install these pacakages in the virtual evironment.
 - conda install pandas
 - conda install seaborn
 - conda install jupyter
+
+### OR
+
+You can set-up your VS-Code to run these file
+- Install the Microsoft Visual Studio code
+- Install python idle from https://www.python.org/downloads/
+- open cmd and run following commands
+  - python --version
+  - pip --version
+- if it shows the version of python and pip installed on your system download the pacakages as instricted below
+  - pip install google-api-python-client
+  - pip install pandas
+  - pip install seaborn
+  - pip install jupyter
