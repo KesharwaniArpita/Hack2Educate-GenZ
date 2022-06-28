@@ -7,3 +7,8 @@
    - Harsh Raj
    - Rahul Kumar Mishra
    - Raj Vardhan Tomar
+
+## Index
+ - Project 1
+   - We have learned how to use Application programming interface (API) to extract some data of YouTube Channels and Videos
+     - We extracted data of some Educational, Entertainment, Tech and motivational Channels
