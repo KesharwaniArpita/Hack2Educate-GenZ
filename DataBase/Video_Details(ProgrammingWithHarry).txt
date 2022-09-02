@@ -1,0 +1,402 @@
+,Title,Description
+0,Operators & Expressions in JavaScript | Ultimate JavaScript Course #6,"JavaScript Notes & Code:  
+This course is also available in the Hindi Language on  @CodeWithHarry   channel. JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for web page behavior,  often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
+
+The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.
+
+JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.
+
+Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.
+JavaScript is the world's most popular programming language.
+JavaScript is the programming language of the Web.
+JavaScript is easy to learn.
+This tutorial will teach you JavaScript from basic to advanced."
+1,JavaScript Chapter 1 - Practice Set | Ultimate JavaScript Course #5,"JavaScript Notes & Code:  
+This course is also available in the Hindi Language on  @CodeWithHarry   channel. JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for web page behavior,  often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
+
+The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.
+
+JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.
+
+Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.
+JavaScript is the world's most popular programming language.
+JavaScript is the programming language of the Web.
+JavaScript is easy to learn.
+This tutorial will teach you JavaScript from basic to advanced."
+2,Primitives and Objects in JavaScript | Ultimate JavaScript Course #4,"JavaScript Notes & Code:  
+This course is also available in the Hindi Language on  @CodeWithHarry   channel. JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for web page behavior,  often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
+
+The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.
+
+JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.
+
+Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.
+JavaScript is the world's most popular programming language.
+JavaScript is the programming language of the Web.
+JavaScript is easy to learn.
+This tutorial will teach you JavaScript from basic to advanced."
+3,"const, let and var in JavaScript | Ultimate JavaScript Course #3","JavaScript Notes & Code:  
+This course is also available in the Hindi Language on  @CodeWithHarry   channel. JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for web page behavior,  often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
+
+The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.
+
+JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.
+
+Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.
+JavaScript is the world's most popular programming language.
+JavaScript is the programming language of the Web.
+JavaScript is easy to learn.
+This tutorial will teach you JavaScript from basic to advanced."
+4,Variables in JavaScript | Ultimate JavaScript Course #2,"JavaScript Notes & Code:  
+This course is also available in the Hindi Language on  @CodeWithHarry   channel. JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for web page behavior,  often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
+
+The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.
+
+JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.
+
+Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.
+JavaScript is the world's most popular programming language.
+JavaScript is the programming language of the Web.
+JavaScript is easy to learn.
+This tutorial will teach you JavaScript from basic to advanced."
+5,Introduction to JavaScript + Setup | Ultimate JavaScript Course #1,"JavaScript Notes & Code:  
+This course is also available in the Hindi Language on @CodeWithHarry  channel. JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for web page behavior,  often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
+
+The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O.
+
+JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.
+
+Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.
+JavaScript is the world's most popular programming language.
+JavaScript is the programming language of the Web.
+JavaScript is easy to learn.
+This tutorial will teach you JavaScript from basic to advanced."
+6,"Python Project: Extracting Amazon Reviews using Requests, BeautifulSoup & SOAX 🔥","Try SOAX -  
+Source Code:  
+Promo - 10% off the first plan purchase (valid until August 31, 2022):  CODEWITHHARRY
+SOAX has more than 8.5 mln residential rotating IPs. The large pool of IPs with a success rate greater than 99,95% combined with precise geotargeting and ASN filtering (with no extra costs) make SOAX proxies a perfect solution for web scraping and data collection projects of any magnitude."
+7,HarperDB - A Fast & Flexible Database on the Market,"HarperDB -  
+Modern applications are easily deployed in a globally distributed paradigm, but the databases that power them often remain in a single cloud region, resulting in Internet latency delays caused by the application calling back to the database. This latency often leads to a poor end-user experience. HarperDB is cloud-agnostic and easily distributed. Move your data closer to the user: improve user experience and reduce cloud dependency with HarperDB"
+8,Perform multidimensional analysis for free | Intro to atoti,"Did you enjoy this tutorial?  Check out all of atoti’s features and install now: :
+-------------------------
+pip install atoti[jupyterlab]
+--------------------------
+
+Tutorial page referenced 👉  
+Download tutorial and launch JupyterLab to get started:
+-------------------------
+python -m atoti.copy_tutorial tutorial
+jupyter lab
+--------------------------
+
+Join the atoti community 👇
+  
+ 
+ 
+ 
+9,How to Create a Wordpress Website?,"Elementor Cloud:  
+TimeStamps ⏲
+00:00 - Introduction    
+00:44 - What is elementor cloud    
+01:38 - Why use elementor cloud    
+02:47 - Elementor cloud dashboard walkthrough    
+05:35 - Creating a blog using elementor cloud    
+08:27 - Editing pages    
+10:00 - Adding a post    
+10:53 - Site lock feature    
+12:11 - Editing posts    
+13:35 - Changing User/Author's name    
+14:15 - Visiting the blog and making it public    
+16:52 - Backup feature in Elementor    
+17:03 - Adding more changes to the website    
+19:05 - Backup in Elementor    
+21:14 - Exploring Elementor Features    
+23:00 - Conclusion 
+Setting up your WordPress website can seem like a daunting task if you’ve never done anything like it before. Fortunately, one of the best things about WordPress is that it’s so user-friendly and intuitive. Just about anyone can do it!
+While the technical part of setting up a WordPress website isn’t complicated, knowing what to put on your website and how to make it work for you can be. 
+In this video, we will see how to use elementor cloud to build a Wordpress website!
+ 
+
+Start building a website right away with an Elementor Cloud Website which comes preinstalled with the WordPress CMS, Elementor Pro features, Hello theme, and…secure built-in hosting from Google Cloud Platform with all the storage Web Creators need, plus the choice to connect it to any custom domain at no extra cost. As Elementor covers the technical logistics, all that’s left is for Web Creators to add their personal touch and launch as soon as they’re ready.
+Loaded With Everything You Need
+On top of Elementor’s renowned Drag & Drop Live Editor, Responsive Design, 100+ Widgets, 300+ Templates, 60+ Website Kits, Hello Theme, Theme Builder, Popup Builder, Form Builder, WooCommerce Builder, and much more, the Elementor Cloud Website enables Web Creators to now create a new website with a single built-in hosting solution which includes:
+Instant Setup — WordPress CMS, Elementor Pro features, and Hello Theme are pre-installed and activated.
+Google Cloud Platform — Powered by Google Cloud Platform and interconnected over their premium tier network, resulting in fast and secure transport of your data.
+SSL Certification — Built-in free SSL from Cloudflare. You can also install your own certificate if required.
+CDN by Cloudflare — Powered by Cloudflare CDN, your website content is stored in over 200 locations globally so it responds quickly wherever your visitors are.
+20GB Storage — To keep all your content.
+100GB Bandwidth - Offering visitors a top website experience.
+100K Monthly Visits — Measured by the total monthly unique traffic (IPs) to your website on the server.
+Backup — Websites are backed up automatically nightly and stored for 14 days. You can also create a manual backup point before installing a new theme or plugin update. Restore any backup at any time from your website management dashboard.
+Free Elementor Subdomain — Receive a free subdomain under “elementor.cloud”.
+Custom Domain — Connect as many custom domains as you need to your Elementor Website for free. Domains can be purchased with any domain provider.
+Support — Elementor Cloud Websites include 24/7 live chat and Premium Support team that will be there to answer questions regarding both hosting and the editor. All questions will be answered within one day on average. 
+
+Since all Elementor Cloud Websites include Elementor Pro features built-in, Web Creators can also enjoy Elementors 20+ Integrations, Live Custom CSS, Custom Headers & Footers, Custom 404 Pages, Global Widgets, Post & Portfolio Widgets, Price Tables & Price Lists, Custom Field Integrations, Interactive Carousels, Role Manager, Custom Fonts, Custom Icons, Sticky Elements, Embed Anywhere, and more.
+
+An Elementor Cloud Website provides an all-in-one solution that includes all the benefits of Elementor Pro features along with hosting and WordPress installation. Web Creators will also receive the added benefit of getting support for everything, from the Editor to Hosting, all in one place. Its instant setup means a hassle-free experience that saves Web Creators time, allowing them to fully focus on building a beautiful website.
+This Is the World of WordPress Tomorrow
+Elementor is unique as it began during the trailblazing plugin era, whereas other page and website builders started as sheltered hosting providers. It has the mindset, culture, and organizational structure to transform from a product company into a cloud company. From a plugin to a product to a platform.
+
+Elementor Cloud Website is set to revolutionize how WordPress website projects are organized.  By streamlining their workflow, removing technical setup barriers, simplifying hand-off to clients, and, of course, publishing. Elementor now offers Web Creators a solution that lets them focus on what they do best: Create websites and design their future."
+10,HTML Tutorial For Beginners (With Notes) 🔥,"In this html course we will learn html from the ground up. This course will get you started with html and the notes supplied along with this course will help you revise and retain the information you will learn in this course
+Cheatsheet -   
+Handwritten Notes -  
+TimeStamps 🕓
+Introduction: 0:00:00 - 0:02:19
+Chapter 0: 0:02:19 - 00:10:23 
+Chapter 1: 00:10:23 - 00:25:53
+Chapter1 Practice Set: 00:25:53 - 00:33:22
+Chapter 2: 00:33:22 - 00:49:58
+Chapter 2 Practice Set: 00:49:58 - 00:59:05
+Chapter 3: 00:59:05 - 01:12:47
+Chapter 3 Practice Set: 01:12:47 - 01:17:50
+Chapter 4: 01:17:50 - 01:35:20
+Chapter 4 Practice Set: 01:35:20 - 01:47:36
+Chapter 5: 01:47:36 - 01:59:39"
+11,C Language Tutorial for Beginners (With Notes) 🔥,"C Tutorial + Complete C Language Notes in English: In this C Language Complete Tutorial, we are going to learn c language from scratch. This C language tutorial will cover everything you need to learn to master c programming. C programming is the best language to learn for beginners. In fact, most of the Compilers and JVMs are written in C.
+Download Notes:  
+C Cheatsheet:  
+TimeStamps:
+Course Contents & Agenda: 00:00
+Chapter 0 - Introduction to Programming: 00:02:19
+Chapter 1 - Variables, Constants & Keywords: 00:07:28
+Chapter 1 - Practice Set: 00:56:40
+Chapter 2 - Instructions & Operators: 01:10:05
+Chapter 2 - Practice Set: 01:32:10
+Chapter 3 - Conditional Instructions: 01:42:26
+Chapter 3 - Practice Set: 02:23:56
+Chapter 4 - Loop Control Instructions: 02:58:54
+Chapter 4 - Practice Set: 03:49:14
+Chapter 5 - Functions & Recursions: 04:11:24
+Chapter 5 - Practice Set: 04:54:36
+Project 1 - Guess The Number: 05:20:34
+Chapter 6 - Pointers: 05:31:23
+Chapter 6 - Practice Set: 06:21:22
+Chapter 7 - Arrays: 06:41:38
+Chapter 7 - Practice Set: 07:45:35
+Project 2 - Snake, Water, Gun: 08:14:41
+Chapter 8 - Strings: 08:24:23
+Chapter 8 - Practice Set: 08:51:44
+Chapter 9 - Structures: 09:05:10
+Chapter 9 - Practice Set: 09:48:28
+Chapter 10 - File I/O: 09:59:42
+Chapter 10 - Practice Set: 10:17:12
+Chapter 11 - Dynamic Memory Allocation: 10:27:21
+Chapter 11 - Practice Set: 10:45:45
+
+Download Notes + Source Code Here:  
+12,Python Tutorial For Beginners (With Notes) 🔥,"Python Tutorials For Absolute Beginners: In this Python programming tutorial, we will see complete Python from scratch. This Python course is beginner-friendly which means that any Python beginner can start learning from this Course. I will start this course from zero, and then we will look into the advanced python concepts.
+This Python completed course is divided into 13 chapters and 3 projects. All the source code and PDF notes are available for download
+Python Cheatsheet:  
+Python Notes (PDF):  
+⌚Video TimeStamps
+Introduction: 00:00:00 - 00:01:45
+Chapter 0 : About Python : 00:01:45 - 00:14:18
+Chapter 1 Modules, comments & Pip:  00:14:18 - 00:40:17
+Chapter 1 (Practice Set) :  00:40:17 - 00:57:50
+Chapter 2 Variables & DataTypes:  00:57:50 - 01:41:10
+Chapter 2 (Practice Set) :  01:41:10 - 01:53:07
+Chapter 3 Strings:  01:53:07 - 02:27:18
+Chapter 3 (Practice Set) :  02:27:18 - 02:37:45
+Chapter 4 Lists & Tuples:  02:37:45 - 03:07:32
+Chapter 4 (Practice Set) :  03:07:32 - 03:23:35
+Chapter 5 Dictionary & sets:  03:23:35 - 03:47:16
+Chapter 5 (Practice Set) :  03:47:16 - 03:59:34
+Chapter 6 Conditional Expressions:  03:59:34 - 04:19:51
+Chapter 6 (Practice Set) :  04:19:51 - 04:41:53
+Chapter 7 Loops in Python:  04:41:53 - 05:10:48
+Chapter 7 (Practice Set) :  05:10:48 - 05:38:23
+Chapter 8 Functions & Recursions:  05:38:23 - 06:06:42
+Chapter 8 (Practice Set) :  06:06:42 - 06:23:37
+Project 1 Snake, Water, Gun:  06:23:37 - 06:33:20
+Chapter 9 File IO in Python :  06:33:20 - 06:51:16
+Chapter 9 (Practice Set) :  06:51:16 - 07:11:52
+Project 2 The Perfect Guess :  07:11:52 - 07:20:38
+Chapter 10 Object Oriented Programming :  07:20:38 - 08:00:00
+Chapter 10 (Practice Set) :  08:00:00 - 08:14:29
+Chapter 11 Inheritance & More on OOPs:  08:14:29 - 08:43:18
+Chapter 11 (Practice Set) :  08:43:18 - 09:05:52
+Chapter 12 Advanced Python 1:  09:05:52 - 09:34:53
+Chapter 12 (Practice Set) :  09:34:53 - 09:46:06
+Chapter 13 Advanced Python 2:  09:46:06 - 10:11:53
+Chapter 13 (Practice Set) :  10:11:53 - 10:27:18
+Project 3 Django Website:  10:27:18 - 11:38:27
+Welcome to this complete Python course with hand-written notes. 
+Python is the fastest-growing language with tons of opportunities in Artificial Intelligence, Machine Learning, and Web Development!
+My name is Harry, and I will be your instructor throughout this course. 
+We will start from the fundamental level, and we will then raise the bar like anything.
+The prerequisite of this course is nothing but only your time.
+You just have to come with your time, and we will together explore the possibilities and the concepts of Python.
+If you appreciate this initiative, I want you to give this video a thumbs up and drop a comment saying, ""This video is helpful."" 
+Make sure you write a comment for me. 
+Your feedback really makes me very, very happy.
+This course is divided into 13 chapters and three projects. Out of these three projects, we have two projects as our games, and one of the projects is a Django Jumbo website. We will learn to make a website in this course as well!
+If I were to suggest one language that can help you do a wide variety of tasks, that would be Python.
+Yes, friends, that's the beauty of Python.
+Since the evolution of Python, many things have changed; many operators have been introduced, and many new concepts in Python, like f-strings, have been introduced.
+We are going to see the updated concepts of Python throughout this course. 
+For your ease and help, I have also included a cheat sheet with this course. I will give you the PDF of the handwritten notes. All this is for free; You don't have to pay me anything.
+For your convenience, I have also timestamped this video to see the chapters and navigate to the different parts of this video using the YouTube features. 
+After you complete this course, you can add all these projects to GitHub, which will definitely help you enhance your portfolio!
+So enough of talks, Make sure you like this video and let's get started."
+13,Deploying our Django Blog in Ubuntu 18.04 VPS | Django Tutorial #34,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+14,Adding Virtual Environment to our Django Blog | Django Tutorial #33,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+15,Creating Contact Model + UI for our Django Blog | Django Tutorial #32,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+16,Designing The Pagination Logic For Our Django Blog | Django Tutorial #31,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+17,Making Design Improvements in Our Django Blog | Django Tutorial #30,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+18,Customizing Tiny MCE For Better Editing Experience | Django Tutorial #29,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+19,Finishing up Tiny MCE Rich Text Editor | Django Tutorial #28,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+20,Adding Rich Text Editor to the Django Admin | Django Tutorial #27,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+21,Django Blog: Designing The HomePage | Django Tutorial #26,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+22,Django Blog: Rendering the Blog on Blog Page | Django Tutorial #25,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+23,Django Blog: Designing the Blog Home Page | Django Tutorial #24,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+24,Django Blog: Creating Blog Model For our Mountain Coders Blog | Django Tutorial #23,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+25,Django CMS: Adding Bootstrap to our Django Blog | Django Tutorial #22,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+26,Django CMS: Creating a Django Blog | Django Tutorial #21,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+27,Django Authentication and Authorization Tutorial | Django Tutorial #20,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+28,Project 2: Finishing Up ToDos List Django App | Django Tutorial #19,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+29,Project 2: Fetching Data from our Models for ToDos List Django App | Django Tutorial #18,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+30,Project 2: Using Django Template Language in our ToDos List Django App | Django Tutorial #17,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+31,Project 2: Creating Models & Superuser for Our ToDos List Django App | Django Tutorial #16,
+32,Project 2: ToDos List App in Django | Django Tutorial #15,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+33,Template Inheritance in Django | Django Tutorial #14,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+34,Using Static Files & StaticFiles Dirs in Django | Django Tutorial #13,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+35,Customizing the Django Admin Interface | Django Tutorial #12,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+36,Understanding the Django Admin Interface | Django Tutorial #11,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+37,Models in Django: Saving Form Data To The Database | Django Tutorial #10,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+38,Adding Further Design to our Developer Portfolio Website | Django Tutorial #9,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+39,Portfolio Website: Integrating Bootstrap with Django | Django Tutorial #8,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+40,Using Templates & Django Template Engine in Django | Django Tutorial #7,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+41,Creating a Developer Portfolio Website Using Django | Django Tutorial #6,"In this Django course, We will see how to create awesome Django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+42,MVT Pattern in Django | Django Tutorial #5,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+43,"Apps, Projects and UrlPatterns in Django | Django Tutorial #4","In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+44,Folder Structure of a Django Application | Django Tutorial #3,"In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+45,"How Django Works with HTML, CSS & JavaScript | Django Tutorial #2","In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+46,"Installing VS Code, Django & More | Django Tutorial #1","In this Django course, We will see how to create awesome django websites from starting to the end. Also we will see how to build few of amazing projects in Django.
+This course is a part of this complete Django Playlist:  
+47,Object Oriented Programming - Classes & Objects in Python | Python Tutorial #34,"In this video, I have discussed about object oriented programming along with several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+48,HTML for Web Development Tutorial for Beginners (2020 Updated Course),In this video we will learn how to use HTML for creating websites. This video is a starting point for all those who want to learn web development from scratch
+49,Project 1: Jarvis - Python AI Virtual Desktop Assistant | Python Tutorial #33,"In this video, I have created an AI desktop virtual assistant using python along with several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+50,Lambda Functions In Python | Python Tutorial #32,"In this video, I have discussed about Iterators, Iterables & Generators along with several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+51,"Iterators, Iterables & Generators In Python | Python Tutorial #31","In this video, I have discussed about Iterators, Iterables & Generators along with several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+52,List Comprehensions In Python | Python Tutorial #30,"In this video, I have discussed about list comprehensions along with several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+53,Number Guessing Game: Python Exercise 3 Solution | Python Tutorial #29,"In this video, I have given you an exercise along with several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+54,Guess the number: Python Exercise 3 | Python Tutorial #28,"In this video, I have given you an exercise along with several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+55,"f.read(), f.readline() & f.readlines() in Python | Python Tutorial #27","In this video, I have explained about file functions and several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+56,File Handling in Python | Python Tutorial #26,"In this video, I have explained about file handling and several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+57,Escape sequence characters in Python | Python Tutorial #25,"In this video, I have explained about escape sequences and several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+58,Short Hand If - Else Notation in Python | Python Tutorial #24,"In this video, I have explained about error handling and several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+59,Exercise 2: Solution + Shoutouts | Python Tutorial #23,"In this video, I have solved the exercise 2 and discussed several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+60,Try except and Error handling in Python | Python Tutorial #22,"In this video, I have explained about error handling and several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+61,For else in Python | Python Tutorial #21,"In this video, I have taught you about for else loop and several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+62,Modules & pip in Python | Python Tutorial #20,"In this video, I have taught you about pip, using modules and several  related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+63,Recursions in Python | Python Tutorial #19,"In this video, I have taught you about recursions and using several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+64,Exercise 2: Twinkle Twinkle Little Star | Python Tutorial #18,"In this video, I have given you an exercise in python. This exercise is about star patterns using for loops and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+65,Functions in Python | Python Tutorial #17,"In this video, I have explained about functions in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+66,Exercise 1: Solution + Shoutouts | Python Tutorial #16,"In this video, I have explained about capitalizing a string in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+67,While Loops in python | Python Tutorial #15,"In this video, I have explained about while loops in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+68,For Loops in python | Python Tutorial #14,"In this video, I have explained about for loops in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+69,If else conditionals in Python | Python Tutorial #13,"In this video, I have explained about if else conditionals in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+70,Sets in Python | Python Tutorial #12,"In this video, I have explained about sets in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+71,Dictionary and related methods in Python | Python Tutorial #11,"In this video, I have explained about dictionaries in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+72,Tuple in Python | Python Tutorial #10,"In this video, I have explained about tuples in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+73,Lists in Python | Python Tutorial #9,"In this video, I have explained about lists in python and how to use several related techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+74,Taking user input in Python  | Python Tutorial #8,"In this video, I have explained how to take user input in python and how to use several user input techniques to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+75,F-strings in Python | Python Tutorial #7,"In this video, I have explained what f strings in python are and how to use them to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+76,Exercise 1: Capitalize my name & String concatenation | Python Tutorial #6,"In this video, I have explained what string concatenation in python is and how to use it to write effective python programs. 
+Also I have provided an exercise for your practice which I'll be solving very soon. Make sure to post your solution before I make the solution video. 
+This video is a part of my python for absolute beginners playlist -  
+77,Python strings and built in string methods | Python Tutorial #5,"In this video, I have explained what strings in python are and how to use them to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+78,Operators in Python | Python Tutorial #4,"In this video, I have explained what operators in python are and how to use them to write effective python programs. 
+This video is a part of my python for absolute beginners playlist -  
+79,Numbers & Typecasting in python | Python Tutorial #3,"In this Python tutorial I will show you what numbers are and how to convert one type of python object into another.
+This video is a part of my python for absolute beginners playlist -  
+80,Variables & Comments in Python | Python Tutorial #2,"In this Python tutorial I will show you what variables and comments in python are and how to use them to write efficient and effective python code!
+This video is a part of my python for absolute beginners playlist -  
+81,"Installing VS Code, Python & writing hello world Python code | Python Tutorial #1","In this Python tutorial I will show you how to get started with python and install required tools and setup to write python code fast!
+This video is a part of my python for absolute beginners playlist -  
+82,Django queryset tutorial: Making Queries in Django,"In this video, I have explained you how to make queries in django. Django is a powerful framework which lets you query your database right from the python backend. 
+This video explains how to do that!"
+83,Django 2.2 Tutorial For Beginners,"In this Django tutorial series, I have covered complete django 2.2. Django is a powerful web framework which comes with a lot of cool stuff. Using django saves a lot of time of the programmer"
+84,[Solved] No python interpreter configured for the project pycharm,"""No Python interpreter selected"" is the most common error while writing python code in Pycharm. In this video, we will see how to solve ""No python interpreter configured for the project"" in Pycharm.
+After watching this error, you will know how to exactly how to solve and avoid this error in the future.
+Click here to watch my Python One video Crash Course:  
+85,[Solved] Invalid python interpreter selected for the project pycharm,"""invalid python interpreter selected for the project pycharm"" is one of those annoying errors you hate the most. In this video, I will break down the reason of this error and how to avoid this error in the future."
+86,"[SOLVED] pip is not recognized as an internal or external command, operable program or batch file","Sometimes this shows up: The term 'pip' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. At line:1 char:1
++ tip
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (tip:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+In this video, we will solve : pip is not recognized as an internal or external command, operable program or batch file error.
+This video will teach you how exactly I solved this error and you will never ever see this error again in your lifetime :)"
+87,Python Tutorial For Beginners (Complete Course),"In this python 3.7 tutorial video, I will be explaining you everything you need to know about python programming. In this free python crash course, we will start from scratch and go until object oriented programming and python file IO concepts. 
+After watching this python programming tutorial, you will get a basic idea of how python works and how to get most out of your python programs."
