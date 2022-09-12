@@ -12,3 +12,6 @@
  - Project 1
    - We have learned how to use Application programming interface (API) to extract some data of YouTube Channels and Videos
      - We extracted data of some Educational, Entertainment, Tech and motivational Channels
+  - Project 2
+   - We had created a dataset of title and description of approx 1.5 Lakh YouTube Videos from 45 different YouTube channels 
+     - Now we are finding keywords from this data to create two different lists of Educational and Non-Educational words so that we can comment weather a video is for educational purpose otr not.
