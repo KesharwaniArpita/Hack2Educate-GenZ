@@ -1,0 +1,126 @@
+html,body{
+    /* background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('bg.jpg'); */
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Rubik';
+    letter-spacing: 3px;
+}
+
+header{
+	width: 10vw;
+	height:10vh;
+	background-size: cover;
+	position: relative;
+	background-attachment: fixed;
+}
+nav{
+	width: 100%;
+	height:65px;
+	background: white;
+	color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0px 80px;
+	position:fixed;
+	top:0;
+	background:white;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.logo{
+	font-family: sans-serif;
+	font-size:2.5em;
+}
+.logo span{
+	color: #e74c3c;
+}
+.logo img{
+	padding: 0px;
+	border-radius: 100px;
+	width: 20%;
+}
+
+.h-in{
+	max-width: 1000px;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	color: white;
+	text-align: center;
+	margin-top: 200px;
+	margin-left: 300px;
+	margin-right: 300px;
+	left: 150px;
+}
+
+
+.h-in input{
+	width: 200%;
+	padding: 10px;
+	border-radius: 8px;
+	font-size: 20px;
+	border:none;
+	outline: none;
+}
+.h-in button{
+	width: 30%;
+	padding:10px;
+	background: #e74c3c;
+	font-size: 20px;
+	border:none;
+	outline: none;
+	color: white;
+	border-radius: 8px; 
+	margin-top: 30px;
+}
+
+.grid{
+	
+    display: grid;
+    grid-gap: 2vmax;
+}
+
+form{
+    margin: 4vmax 10vmax;
+    padding:3vmax;
+    border: 2px solid #dddddd;
+}
+
+input{
+    padding:1vmax;
+    font-size: 1.3vmax;
+    border: 1px solid #dddddd;
+    outline: none;
+}
+
+select{
+    padding:1vmax;
+    font-size: 1.3vmax;
+    border: 1px solid #dddddd;
+    outline: none;
+    letter-spacing: 3px;
+}
+
+option{
+    font-size: 1.5vmax;
+    letter-spacing: 3px;
+}
+
+.file_submit{
+  margin-top: 1vmax;
+  border: 1px solid #55acee;
+  outline: none;
+  background-color: #55acee;
+  color: white;
+  padding: 1vmax;
+  cursor: pointer;
+  transition: 0.3s;
+  letter-spacing: 3px;
+}
+
+.file_submit:hover{
+  background-color: white;
+  color: #55acee
+}
