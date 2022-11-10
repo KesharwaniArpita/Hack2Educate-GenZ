@@ -6,7 +6,7 @@ from cleantext import clean
 import string
 
 # api key
-api_key = 'Enter your Api key'
+api_key = 'AIzaSyDNIBOKOXIkHDWf8G2hMAuzNuAdc6TO6Ps'
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 app = Flask(__name__)
