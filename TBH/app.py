@@ -1,8 +1,7 @@
 from flask import Flask, render_template, url_for, request
 from googleapiclient.discovery import build
-import csv
-import re
 from cleantext import clean
+import re
 import string
 
 # api key
@@ -170,9 +169,9 @@ def YTAlgo(link):
 @app.route('/result',methods=['POST', 'GET'])
 def result():
     output = request.form.to_dict()
-    print(output)
-    name = output["name"]
-    name = YTAlgo(name)
-    return render_template('index.html', name = name)
+    # print(output)
+    link = output["name"]
+    result = YTAlgo(link)
+    return render_template("index.html", name = result)
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host = '0.0.0.0')
