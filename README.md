@@ -1,12 +1,19 @@
+# Hack2Educate-GenZ
 
 # Team GenZ
-   We are working on the challenge of Beyond Exams on the ML/AI track in which we have to develop a product which will detect weather a given YouTube video is of educational type or not.
-
-# The Team Members of GenZ are:
-   - Arpita Kesharwani
+### The Team Members of GenZ are:
    - Harsh Raj
-   - Rahul Kumar Mishra
    - Raj Vardhan Tomar
+   - Arpita Kesharwani
+   - Rahul Kumar Mishra
+
+## Theme we are workin on is ML / AI challenge:
+   - We will be given a Youtube video:
+       - Determine if it is an educational video or not.
+       - Determine which category or subcategory of BE would it belong to.
+   - Accuracy: 90%+ on a custom dataset that will be provided after proof of concept.
+   - Should be able to run in near-real-time on a server.
+
 
 ## Index
  - Project 1
