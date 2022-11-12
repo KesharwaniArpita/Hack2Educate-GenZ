@@ -47,7 +47,7 @@ Paste it in the app.py file
 ![Image not Found !!](pic1.jpg?raw=true "Title")
 
 ```
-Rrun the app.py file
+Run the app.py file
 ```
 ```
 The webpage will be opened on your localserver
