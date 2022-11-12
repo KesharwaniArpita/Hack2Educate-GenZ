@@ -5,7 +5,7 @@ import re
 import string
 
 # api key
-api_key = 'AIzaSyDNIBOKOXIkHDWf8G2hMAuzNuAdc6TO6Ps'
+api_key = 'Enter Your API key here'
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 app = Flask(__name__)
