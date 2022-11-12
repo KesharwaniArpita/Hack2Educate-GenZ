@@ -1,5 +1,5 @@
 # Hack2Educate-GenZ
-### You can se the demo at
+### You can watch the demo @
 [![LinkedIn Badge](https://img.shields.io/badge/Watch-Demo-red)](https://drive.google.com/file/d/1YBxndHcH_EQZGdp0i-c7Q3odCvtGDsUA/view?usp=share_link)
 # Team GenZ
 
