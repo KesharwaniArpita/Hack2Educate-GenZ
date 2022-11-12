@@ -1,5 +1,7 @@
 html,body{
-    /* background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('bg.jpg'); */
+    background:linear-gradient(rgba(0, 0, 0, 0.6),rgba(0,0,0,0.6)), url('bg.jpg');
+	background-size: cover;
+	background-position-x: center;
     margin: 0px;
     padding: 0px;
     list-style: none;
@@ -11,28 +13,30 @@ html,body{
 header{
 	width: 10vw;
 	height:10vh;
-	background-size: cover;
+	background-size:cover;
 	position: relative;
 	background-attachment: fixed;
+
 }
 nav{
 	width: 100%;
 	height:65px;
-	background: white;
 	color: black;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space- between;
 	align-items: center;
 	padding: 0px 80px;
 	position:fixed;
-	top:0;
-	background:white;
-	border-bottom: 1px solid rgba(0,0,0,0.2);
+	top: 0px;
+	/* background:rgb(252, 188, 255); */
+	/* border-bottom: 3px solid rgb(0, 0, 0); */
+
 }
 
 .logo{
 	font-family: sans-serif;
-	font-size:2.5em;
+	font-size:2em;
+	color: aliceblue;
 }
 .logo span{
 	color: #e74c3c;
@@ -85,7 +89,19 @@ nav{
 form{
     margin: 4vmax 10vmax;
     padding:3vmax;
-    border: 2px solid #dddddd;
+	background-color: #7676766b;
+    border: 2px solid #00000094;
+	border-radius: 15px;
+}
+.container{
+	width: 50%;
+	height: 28%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.let_space{
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 input{
@@ -123,4 +139,21 @@ option{
 .file_submit:hover{
   background-color: white;
   color: #55acee
+}
+
+
+footer{
+	padding:1px;
+	margin-top:1px;
+	color:#112D32;
+	font-weight: bold;
+	background-color:#7ef4fdd7;
+	text-align: right;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+  }
+.copyright{
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
