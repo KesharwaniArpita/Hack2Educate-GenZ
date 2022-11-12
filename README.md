@@ -34,7 +34,7 @@ git clone https://github.com/rajharsh18/Hack2Educate-GenZ
 cd Hack2Educate-GenZ
 ```
 ```
-cd TBH-Website
+cd TBE-Website
 ```
 ```
 pip install -r requirements.txt
