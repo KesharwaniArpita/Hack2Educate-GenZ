@@ -3,6 +3,7 @@ from googleapiclient.discovery import build
 from cleantext import clean
 import re
 import string
+from pytube import extract
 
 # api key
 api_key = 'Enter your API key here'
@@ -15,16 +16,9 @@ def home():
     return render_template("index.html")
 # Functions used in my algo
 # Function to extract YouTube Video Id
-def YTvideo (string, video_ids):
-    a =''
-    count = 0
-    for i in string:
-        count += 1
-        if (count < 33 or count>43):
-            continue
-        else:
-            a = a + i
-    video_ids.append(a)
+def YTvideo(string, video_ids):
+    id1=extract.video_id(string)
+    video_ids.append(id1)
 # Function to extract Video Details
 def get_video_details(youtube, video_ids):
     all_video_stats = []
