@@ -1,5 +1,4 @@
-# Hack2Educate-GenZ [![Website](https://img.shields.io/badge/Visit-Website-red)](https://joimjwoewl.execute-api.us-east-2.amazonaws.com/) 
-![Image not Found !!](icon.png?raw=true "Title")
+# Hack2Educate-GenZ
 
 Watch the demo : [![Demo Badge](https://img.shields.io/badge/Watch-Demo-red)](https://youtu.be/HDvsRwSL70M)       
 # Team GenZ
